@@ -1,11 +1,11 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "shyjnnn",
+    name: "eva",
     image: "/shyjnnn.jpeg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend developer",
     bio: "탐구를 사랑하는 개발자입니다.",
-    email: "shyjnnn.dev@gmail.com",
+    email: "shinyejin0212@gmail.com",
     linkedin: "",
     github: "shyjnnn",
     instagram: "",
